@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d14f391-f499-4d4b-94ed-d90edd46ab6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>screen</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1VRGPAt1rRx4dJtjrVWroRY06lJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/face-segmentation-keras-master/face-segmentation-keras-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajanofal\PycharmProjects\Assignments\Sobi" />
+      <recent name="C:\Users\rajanofal\PycharmProjects\Assignments\Assignment2" />
+      <recent name="C:\Users\rajanofal\PycharmProjects\Assignments\Assignment5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Assignments">
+    <configuration name="Assignments" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment4/New folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment4/New folder/Assignment4nofal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assingment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment2/Assingment2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Assingment2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d14f391-f499-4d4b-94ed-d90edd46ab6a" name="Default Changelist" comment="" />
+      <created>1556974772450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556974772450</updated>
+      <workItem from="1556974774637" duration="8025000" />
+      <workItem from="1557054621126" duration="676000" />
+      <workItem from="1557067229057" duration="5551000" />
+      <workItem from="1557082783250" duration="2396000" />
+      <workItem from="1558222337594" duration="2345000" />
+      <workItem from="1558284581349" duration="758000" />
+      <workItem from="1558296836488" duration="66000" />
+      <workItem from="1558298243506" duration="913000" />
+      <workItem from="1558305920572" duration="1510000" />
+      <workItem from="1558309318158" duration="1577000" />
+      <workItem from="1558357649437" duration="29553000" />
+      <workItem from="1558408047278" duration="220000" />
+      <workItem from="1558437723081" duration="16172000" />
+      <workItem from="1558460509958" duration="20000" />
+      <workItem from="1558461395789" duration="966000" />
+      <workItem from="1558472479008" duration="2373000" />
+      <workItem from="1559477824544" duration="6188000" />
+      <workItem from="1559485915511" duration="136000" />
+      <workItem from="1559486146062" duration="8714000" />
+      <workItem from="1559499069214" duration="455000" />
+      <workItem from="1559509698469" duration="2359000" />
+      <workItem from="1559562342335" duration="3172000" />
+      <workItem from="1559570773983" duration="979000" />
+      <workItem from="1559571987849" duration="279000" />
+      <workItem from="1559638921484" duration="177000" />
+      <workItem from="1559639200030" duration="594000" />
+      <workItem from="1560606908704" duration="361000" />
+      <workItem from="1560607817412" duration="3925000" />
+      <workItem from="1560702983583" duration="2181000" />
+      <workItem from="1560876329990" duration="1642000" />
+      <workItem from="1560886777056" duration="605000" />
+      <workItem from="1560887623155" duration="52000" />
+      <workItem from="1561819460099" duration="6193000" />
+      <workItem from="1562013193944" duration="2633000" />
+      <workItem from="1562020146575" duration="274000" />
+      <workItem from="1562102014239" duration="1829000" />
+      <workItem from="1562701229782" duration="3067000" />
+      <workItem from="1563016143853" duration="218000" />
+      <workItem from="1563035002044" duration="1415000" />
+      <workItem from="1567442046208" duration="69000" />
+      <workItem from="1577208471541" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rgbarray" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignments$Assignments.coverage" NAME="Assignments Coverage Results" MODIFIED="1562707963781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment4/New folder" />
+    <SUITE FILE_PATH="coverage/Assignments$Assingment2.coverage" NAME="Assingment2 Coverage Results" MODIFIED="1562701774595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment2" />
+  </component>
+</project>
